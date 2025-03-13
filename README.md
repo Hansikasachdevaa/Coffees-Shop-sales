@@ -29,7 +29,7 @@ Welcome to my Coffee Shop Sales Data Analysis project! In this project, I have c
 The dashboard provided the following insights:  
 - **Sales Growth Over Time:** Identified periods with the highest growth and sales peaks.  
 - **Product Distribution:** Pinpointed which coffee types and sizes were most popular.  
-- **Customer Loyalty:** Analyzed repeat customer behavior, helping identify high-value customers.
+
 
 ## Project Conclusion
 This Coffee Shop Sales Dashboard is a clear example of how Excel can be used to transform raw data into actionable business insights. I’ve utilized multiple Excel features such as pivot tables, advanced formulas, and data visualization techniques to create a comprehensive tool for understanding sales performance and customer behavior.
